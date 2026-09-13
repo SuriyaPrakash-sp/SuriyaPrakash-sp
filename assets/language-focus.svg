@@ -1,0 +1,10 @@
+<svg width="520" height="190" viewBox="0 0 520 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="518" height="188" rx="12" fill="#0D1117" stroke="#30363D"/>
+<text x="24" y="32" fill="#F0F6FC" font-family="Arial,sans-serif" font-size="16" font-weight="700">Language focus</text>
+<text x="24" y="53" fill="#8B949E" font-family="Arial,sans-serif" font-size="12">The tools showing up most in my builds</text>
+<line x1="24" y1="70" x2="496" y2="70" stroke="#21262D"/>
+<circle cx="51" cy="97" r="7" fill="#3572A5"/><text x="70" y="102" fill="#F0F6FC" font-family="Arial,sans-serif" font-size="13">Python</text><text x="466" y="102" text-anchor="end" fill="#8B949E" font-family="Arial,sans-serif" font-size="12">5 projects</text>
+<circle cx="51" cy="125" r="7" fill="#F1E05A"/><text x="70" y="130" fill="#F0F6FC" font-family="Arial,sans-serif" font-size="13">JavaScript</text><text x="466" y="130" text-anchor="end" fill="#8B949E" font-family="Arial,sans-serif" font-size="12">2 projects</text>
+<circle cx="51" cy="153" r="7" fill="#E34C26"/><text x="70" y="158" fill="#F0F6FC" font-family="Arial,sans-serif" font-size="13">HTML / CSS</text><text x="466" y="158" text-anchor="end" fill="#8B949E" font-family="Arial,sans-serif" font-size="12">8 projects</text>
+<path d="M335 93H466M335 121H466M335 149H466" stroke="#21262D" stroke-width="6" stroke-linecap="round"/><path d="M335 93H400M335 121H361M335 149H466" stroke="#58A6FF" stroke-width="6" stroke-linecap="round"/>
+</svg>

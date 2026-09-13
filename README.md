@@ -53,8 +53,8 @@ I’m a Computer Science student focused on building practical projects, strengt
 ## GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuriyaPrakash-sp&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuriyaPrakash-sp&layout=compact&hide_border=true&theme=github_dark&langs_count=6" height="165" alt="Top languages" />
+  <img src="./assets/github-overview.svg" width="49%" alt="GitHub overview: repository and project counts" />
+  <img src="./assets/language-focus.svg" width="49%" alt="Language focus: Python, JavaScript, and HTML/CSS" />
 </div>
 
 <div align="center">
