@@ -64,7 +64,7 @@ I’m a Computer Science student focused on building practical projects, strengt
 ## Contribution trail
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SuriyaPrakash-sp/SuriyaPrakash-sp/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
+  <img src="https://raw.githubusercontent.com/SuriyaPrakash-sp/SuriyaPrakash-sp/gh-pages/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
 </div>
 
 <div align="center">
