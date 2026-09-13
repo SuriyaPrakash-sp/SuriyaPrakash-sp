@@ -1,0 +1,29 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="line" x1="140" y1="90" x2="1060" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#60A5FA" stop-opacity=".25"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .label{font:600 15px 'JetBrains Mono',monospace;letter-spacing:1px;fill:#E5E7EB}.small{font:13px 'JetBrains Mono',monospace;fill:#94A3B8}.node{fill:#111827;stroke:#334155;stroke-width:1.5}.pulse{animation:pulse 2.8s ease-in-out infinite}.dash{stroke-dasharray:8 12;animation:flow 3s linear infinite}@keyframes pulse{0%,100%{opacity:.65}50%{opacity:1;filter:url(#glow)}}@keyframes flow{to{stroke-dashoffset:-40}}
+    </style>
+  </defs>
+  <rect width="1200" height="420" rx="24" fill="url(#bg)"/>
+  <path d="M40 72H1160M40 348H1160" stroke="#1E293B"/>
+  <text x="64" y="56" class="small">SURiya.prakash / engineering-lab</text>
+  <text x="1074" y="56" class="small">v.01</text>
+  <path d="M210 190H350M520 190H680M850 190H990" stroke="url(#line)" stroke-width="2" class="dash"/>
+  <path d="M430 110V155M770 265V310" stroke="url(#line)" stroke-width="2" class="dash"/>
+  <g class="pulse"><circle cx="150" cy="190" r="60" fill="#0F292B" stroke="#5EEAD4" stroke-width="2"/><text x="118" y="188" class="label">IDEAS</text><text x="105" y="212" class="small">curiosity</text></g>
+  <g class="pulse" style="animation-delay:.4s"><rect x="350" y="140" width="170" height="100" rx="16" class="node"/><text x="390" y="180" class="label">BUILD</text><text x="378" y="207" class="small">Python · JS</text></g>
+  <g class="pulse" style="animation-delay:.8s"><rect x="680" y="140" width="170" height="100" rx="16" class="node"/><text x="706" y="180" class="label">AUTOMATE</text><text x="710" y="207" class="small">systems · AI</text></g>
+  <g class="pulse" style="animation-delay:1.2s"><circle cx="1050" cy="190" r="60" fill="#101E37" stroke="#60A5FA" stroke-width="2"/><text x="1014" y="188" class="label">SHIP</text><text x="1000" y="212" class="small">iterate</text></g>
+  <g class="pulse" style="animation-delay:1.6s"><rect x="350" y="310" width="170" height="62" rx="14" class="node"/><text x="383" y="347" class="small">learn → test → improve</text></g>
+  <g class="pulse" style="animation-delay:2s"><rect x="680" y="48" width="170" height="62" rx="14" class="node"/><text x="714" y="85" class="small">human-first tech</text></g>
+  <circle cx="210" cy="190" r="4" fill="#5EEAD4"/><circle cx="350" cy="190" r="4" fill="#5EEAD4"/><circle cx="520" cy="190" r="4" fill="#60A5FA"/><circle cx="680" cy="190" r="4" fill="#60A5FA"/><circle cx="850" cy="190" r="4" fill="#60A5FA"/><circle cx="990" cy="190" r="4" fill="#60A5FA"/>
+</svg>

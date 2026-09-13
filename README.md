@@ -1,81 +1,80 @@
 <div align="center">
 
-# Hi, I'm Suriya Prakash 👋
+# Suriya Prakash
 
-### Computer Science Student · Builder · Problem Solver
+**I turn curious questions into working software.**
 
-<a href="https://github.com/SuriyaPrakash-sp">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+useful+software+with+curiosity;Exploring+AI%2C+automation%2C+and+full-stack+systems;Learning+in+public%2C+one+commit+at+a+time" alt="Typing animation" />
-</a>
-
-<p>
-  <a href="https://github.com/SuriyaPrakash-sp?tab=followers"><img src="https://img.shields.io/github/followers/SuriyaPrakash-sp?label=Followers&style=flat-square&color=238636" alt="GitHub followers" /></a>
-  <a href="https://github.com/SuriyaPrakash-sp"><img src="https://komarev.com/ghpvc/?username=SuriyaPrakash-sp&style=flat-square&color=58A6FF" alt="Profile views" /></a>
-  <a href="https://github.com/SuriyaPrakash-sp"><img src="https://img.shields.io/badge/GitHub-Connect-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
-</p>
+[![GitHub](https://img.shields.io/badge/github-SuriyaPrakash--sp-111827?style=flat-square&logo=github)](https://github.com/SuriyaPrakash-sp)
+[![Status](https://img.shields.io/badge/status-building_in_public-0F766E?style=flat-square)](https://github.com/SuriyaPrakash-sp?tab=repositories)
 
 </div>
 
-## About me
+![Engineering lab](./assets/engineering-lab.svg)
 
-I’m a Computer Science student focused on building practical projects, strengthening problem-solving skills, and becoming a dependable software engineer. I enjoy taking ideas from a rough concept to a working prototype, especially when the project involves automation, machine learning, or a thoughtful user experience.
+## The short version
 
-- Currently sharpening **data structures, algorithms, and full-stack development**
-- Exploring **AI-assisted tools, developer automation, and scalable software design**
-- Interested in collaborating on **useful open-source and student-led projects**
-- I value **clear code, consistent learning, and shipping real things**
+I’m a Computer Science student who likes the part between **“what if?”** and **“it works.”** My projects are a running lab for learning how software behaves in the real world: with imperfect requirements, limited time, and people who actually need to use it.
 
-## What I work with
+Right now I’m investing in three things: **problem solving**, **reliable full-stack fundamentals**, and the practical side of **AI and automation**.
 
-<div align="center">
+## What I’m building around
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+```text
+             useful idea
+                  │
+       ┌──────────┼──────────┐
+       ▼          ▼          ▼
+   understand   prototype   simplify
+       │          │          │
+       └──────────┼──────────┘
+                  ▼
+             ship → learn → repeat
+```
 
-</div>
-
-## Selected work
-
-| Project | What it shows |
+| Signal | In practice |
 | --- | --- |
-| [**Zyra**](https://github.com/SuriyaPrakash-sp/Zyra) | Recent JavaScript product work and rapid prototyping |
-| [**AXON**](https://github.com/SuriyaPrakash-sp/AXON) | Python-based experimentation and systems thinking |
-| [**NeuroTrace**](https://github.com/SuriyaPrakash-sp/NeuroTrace) | Interest in intelligent and data-driven applications |
-| [**VibeCoding-bot**](https://github.com/SuriyaPrakash-sp/VibeCoding-bot) | Automation that keeps coding practice consistent |
-| [**Sandisk-Cerebrum**](https://github.com/SuriyaPrakash-sp/Sandisk-Cerebrum) | Hackathon-oriented collaboration and execution |
+| **Build** | Small products, prototypes, and hackathon experiments that solve a defined problem. |
+| **Think** | Data structures, algorithms, system behaviour, and the trade-offs behind implementation choices. |
+| **Improve** | Refactoring rough ideas into clearer interfaces, better automation, and more useful workflows. |
 
-> See more experiments and builds in my [repositories](https://github.com/SuriyaPrakash-sp?tab=repositories).
+## Projects with a pulse
 
-## GitHub activity
+### [`Zyra`](https://github.com/SuriyaPrakash-sp/Zyra)
+A recent JavaScript build. This is where I’m practising product thinking: turning an idea into an interface that can be explored, tested, and improved.
+
+### [`VibeCoding-bot`](https://github.com/SuriyaPrakash-sp/VibeCoding-bot)
+A small reminder bot for LeetCode and Codeforces practice. A simple project with a useful lesson: consistency is easier when the system remembers for you.
+
+### [`AXON`](https://github.com/SuriyaPrakash-sp/AXON) · [`NeuroTrace`](https://github.com/SuriyaPrakash-sp/NeuroTrace)
+Python projects from my intelligent-systems track: experiments in modelling, data, and the questions that appear when software has to do more than follow a fixed script.
+
+### [`Sandisk-Cerebrum`](https://github.com/SuriyaPrakash-sp/Sandisk-Cerebrum)
+Hackathon work where collaboration, speed, and a clear problem statement matter as much as the code.
+
+[**Browse all repositories →**](https://github.com/SuriyaPrakash-sp?tab=repositories)
+
+## Current learning queue
+
+- [ ] Become faster and more systematic at data structures and algorithms
+- [ ] Build stronger backend and API fundamentals
+- [ ] Learn to evaluate AI features instead of adding AI by default
+- [ ] Contribute more consistently to open source
+- [ ] Write project documentation that helps the next person run the code
+
+## Tools I reach for
+
+`Python` · `JavaScript` · `HTML/CSS` · `Git` · `GitHub` · `Machine Learning`
+
+I care less about collecting tools and more about knowing **when not to use one**.
+
+## A small note on this profile
+
+The animated diagram above is custom-made for this profile. It represents my preferred loop: **ideas → build → automate → ship**. The animation is intentionally subtle; the work should remain the focus.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuriyaPrakash-sp&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuriyaPrakash-sp&layout=compact&hide_border=true&theme=github_dark&langs_count=6" height="165" alt="Top languages" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SuriyaPrakash-sp&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
-</div>
+**If you found something useful here, feel free to explore, open an issue, or say hello.**
 
-## Contribution trail
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SuriyaPrakash-sp/SuriyaPrakash-sp/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
-</div>
-
-<div align="center">
-
-### Let’s build something useful.
-
-<a href="https://github.com/SuriyaPrakash-sp?tab=repositories">Explore my work</a> · <a href="https://github.com/SuriyaPrakash-sp">Get in touch</a>
+[Explore the lab](https://github.com/SuriyaPrakash-sp?tab=repositories) · [Connect on GitHub](https://github.com/SuriyaPrakash-sp)
 
 </div>
-
-<!--
-  Profile README maintained by Suriya Prakash.
-  The contribution animation is generated by .github/workflows/snake.yml.
--->
