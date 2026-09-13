@@ -11,7 +11,7 @@
 <p>
   <a href="https://github.com/SuriyaPrakash-sp?tab=followers"><img src="https://img.shields.io/github/followers/SuriyaPrakash-sp?label=Followers&style=flat-square&color=238636" alt="GitHub followers" /></a>
   <a href="https://github.com/SuriyaPrakash-sp"><img src="https://komarev.com/ghpvc/?username=SuriyaPrakash-sp&style=flat-square&color=58A6FF" alt="Profile views" /></a>
-  <a href="mailto:suriyaprakashsp@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/SuriyaPrakash-sp"><img src="https://img.shields.io/badge/GitHub-Connect-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
 </p>
 
 </div>
@@ -71,7 +71,7 @@ I’m a Computer Science student focused on building practical projects, strengt
 
 ### Let’s build something useful.
 
-<a href="https://github.com/SuriyaPrakash-sp?tab=repositories">Explore my work</a> · <a href="mailto:suriyaprakashsp@gmail.com">Get in touch</a>
+<a href="https://github.com/SuriyaPrakash-sp?tab=repositories">Explore my work</a> · <a href="https://github.com/SuriyaPrakash-sp">Get in touch</a>
 
 </div>
 
